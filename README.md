@@ -6,3 +6,5 @@ Inspired by: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5
 This project was made with:
 
   * [Tailwind CSS](https://tailwindcss.com/docs/installation)
+  * [Heroicons](https://heroicons.dev/)
+  * And ❤️
